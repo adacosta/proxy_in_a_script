@@ -1,0 +1,10 @@
+- Me intro
+- Show readme; Create server at Digital Ocean
+- Show readme; Describe Socks
+- Use cases: behind a firewall, circumvent location based filtering, web scraping, wikipedia says credit card fraud
+- Show How do you setup and use ...
+- Show Gemfile
+- Show that_script
+- Show readme; Execute from local
+- Show readme; Execute from proxy
+- Show that_script; Discuss redirects, error handling, scaling with resource sharing strategies

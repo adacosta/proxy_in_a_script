@@ -1,0 +1,11 @@
+version: '3.6'
+services:
+  app:
+    build: .
+    command: ruby that_script.rb
+    environment:
+      USER: USER
+      PASSWORD: PASSWORD
+      PORT: 2997
+    volumes:
+      - .:/app
